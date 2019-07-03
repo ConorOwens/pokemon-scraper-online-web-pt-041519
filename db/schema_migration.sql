@@ -3,5 +3,5 @@
 CREATE TABLE pokemon (
 id PRIMARY KEY INTEGER,
 name TEXT,
-type TEXT,
+type TEXT
 );
